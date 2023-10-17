@@ -1,0 +1,3 @@
+Training dataset covers June and July time period.
+Validation was made on August data.
+Model was deployed on September.
