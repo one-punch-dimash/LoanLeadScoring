@@ -49,5 +49,9 @@ For further information or inquiries about this research, please contact me at:
 - Email: aitkali.dimash@gmail.com
 
 ## Acknowledgments
-[Optional section to acknowledge any contributions from advisors, mentors, or institutions that supported your research.]
 
+I would like to extend my heartfelt gratitude to my family for their unwavering support and encouragement throughout the duration of this project. Their belief in my abilities and their constant motivation have been a source of strength for me.
+
+Special thanks also go to my friend M., whose assistance in acquiring data for this project was invaluable. Their support not only made the data collection process smoother but also contributed significantly to the success of this research.
+
+Their collective support has been instrumental in my journey, and I am deeply grateful for their contributions.
