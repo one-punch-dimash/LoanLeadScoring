@@ -21,7 +21,8 @@ In the competitive world of finance, accurately predicting customer behavior, pa
 **Data Collection Method:**
 - The data was collected using SAS Enterprise Guide (SAS EG), a powerful mining tool that facilitates advanced data analysis and ETL processes.
 
-![ETL Process in SAS for Dataset collection](data_collection/Data Collection on SAS.PNG)
+![ETL Process in SAS for Dataset collection](https://github.com/one-punch-dimash/LoanLeadScoring/blob/main/data_collection/Data%20Collection%20on%20SAS.PNG)
+
 
 **Feature Descriptions:**
 1. **AGE:** Age of the client in years.
