@@ -29,8 +29,30 @@ I am adopting a quantitative approach, utilizing anonymized banking datasets for
 ## Installation and Usage
 [Provide instructions on how to install and run any code or analysis related to the project.]
 
-## Data
-[Describe the data used in the project, ensuring not to disclose sensitive or proprietary information.]
+## Dataset Information and Feature Descriptions
+
+**Dataset Coverage:**
+- Training dataset covers the time period of June and July.
+- Validation was conducted on data from August.
+- Model deployment was executed in September.
+
+**Feature Descriptions:**
+1. **AGE:** Age of the client in years.
+2. **CHILDREN_CNT:** Count of children the client has.
+3. **EDUCATION:** Highest level of education attained by the client.
+4. **CLIENT_INCOME_AMT:** Monthly income of the client in Tenge currency.
+5. **IS_CAR_FLG:** Flag indicating if the client owns a car (1 for Yes, 0 for No).
+6. **ADD_INCOME_AMT:** Additional income amount of the client, if any, in Tenge currency.
+7. **CARD_CUR_CNT:** Current count of credit/debit cards held by the client.
+8. **REMN_PAYMENT_CNT:** Remaining number of payments the client has on existing loans.
+9. **LOAN_DAY_CNT:** Number of days since the client's last loan was issued.
+10. **TR_MBANLOG_CNT_Q2:** Count of mobile banking logins by the client in the second quarter.
+11. **MAX_CREDIT_REST_HY2:** Maximum remaining credit amount on all client's loans in the first half of the year.
+12. **CUR_DEP_AMT:** Current amount deposited in the client’s accounts.
+13. **CUR_CREDIT_AMT:** Current total credit amount the client has with the bank.
+14. **Target:** Binary target variable indicating whether the client took up a loan offer (1) or not (0).
+
+All personal data is anonymized to protect client confidentiality.
 
 ## Results
 [Summarize the key findings, insights, or outcomes of the research, including any significant statistics or conclusions derived.]
